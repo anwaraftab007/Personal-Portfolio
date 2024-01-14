@@ -73,4 +73,17 @@
   .bg-dribble{
     background-image: url('assets/icons/dribble.svg');
   }
+  .font-palanquin{
+    font-family: 'Palanquin', sans-serif;
+  }
+  .font-montsterrat{
+    font-family: 'Montserrat', sans-serif;
+  }
+  .text-dark-yellow{
+    color: #fdb82c;
+  }
+  .bg-dark-yellow{
+    background-color: #fdb82c;
+  }
+
 }
