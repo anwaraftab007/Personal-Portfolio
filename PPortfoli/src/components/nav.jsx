@@ -1,6 +1,7 @@
+import { navLinks } from "../constants"
 const nav = () => {
   return (
-    <div>nav</div>
+    <div>hee</div>
   )
 }
 
